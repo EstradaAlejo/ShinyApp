@@ -72,7 +72,7 @@ shinyUI(
                       p("Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391-411.")
              ),
              tabPanel("Github repository",
-                      a("https://github.com/ludovicbenistant?tab=repositories"),
+                      a("https://github.com/EstradaAlejo/ShinyApp"),
                     
              )
   )
